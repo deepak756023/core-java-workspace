@@ -1,2 +1,2 @@
 # core-java-workspace
-My Core java best practices and assignmemts.
+My Core java best practices and assignmemts
