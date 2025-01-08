@@ -18,7 +18,7 @@ public class SpecialNum {
         if (sum == temp) {
             System.out.println("Special Number");
         } else {
-            System.out.println("Not Special");
+            System.out.println("Not Special Number");
         }
     }
 }

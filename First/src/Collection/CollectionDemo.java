@@ -9,7 +9,8 @@ public class CollectionDemo {
 //        myCollection.add("a");
 //        myCollection.add("b");
 //        myCollection.add("c");
-        Collections.addAll(myCollection,"a", "b", "c");//The addAll() method of java.util.Collections class is used to add all
+        //The addAll() method of java.util.Collections class is used to add all
+        Collections.addAll(myCollection,"a", "b", "c");
         myCollection.remove("c");
         var containsB  = myCollection.contains("a");
         System.out.println(containsB);
