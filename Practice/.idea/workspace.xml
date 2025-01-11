@@ -2,33 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="845f53c5-24e1-4e09-9b1c-36c87b2567a8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASCII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArmstrongNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutomorphicNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DuckNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EvilOdiusNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factorial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fibonacci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ISBNNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntToBinary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MagicNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Palindrome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PerfectNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PerfectSquare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrimeNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RamanujanNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReverseNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpecialNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpyNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringReverse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StrongNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SunnyNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Swap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberSystem/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberSystem/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberSystem/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberSystem/ASCII.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberSystem/ArmstrongNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberSystem/AutomorphicNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberSystem/DuckNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberSystem/EvilOdiusNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberSystem/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberSystem/Fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberSystem/ISBNNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberSystem/IntToBinary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberSystem/MagicNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberSystem/Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberSystem/PerfectNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberSystem/PerfectSquare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberSystem/Practice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberSystem/PrimeNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberSystem/RamanujanNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberSystem/ReverseNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberSystem/SpecialNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberSystem/SpyNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberSystem/StringReverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberSystem/StrongNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberSystem/SunnyNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberSystem/Swap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,26 +46,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "development",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Projects/CoreJava/core-java-workspace/NumberSystem"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;development&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Projects/CoreJava/core-java-workspace/NumberSystem&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
-      <setting name="path" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$" />
-      <setting name="debug" value="false" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
