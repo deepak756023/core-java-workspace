@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="845f53c5-24e1-4e09-9b1c-36c87b2567a8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../NumberSystem/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberSystem/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberSystem/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberSystem/ASCII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberSystem/ArmstrongNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberSystem/AutomorphicNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberSystem/DuckNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberSystem/EvilOdiusNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberSystem/Factorial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberSystem/Fibonacci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberSystem/ISBNNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberSystem/IntToBinary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberSystem/MagicNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberSystem/Palindrome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberSystem/PerfectNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberSystem/PerfectSquare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberSystem/Practice.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberSystem/PrimeNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberSystem/RamanujanNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberSystem/ReverseNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberSystem/SpecialNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberSystem/SpyNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberSystem/StringReverse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberSystem/StrongNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberSystem/SunnyNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberSystem/Swap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="845f53c5-24e1-4e09-9b1c-36c87b2567a8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
